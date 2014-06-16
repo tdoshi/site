@@ -1,0 +1,11 @@
+development:
+  app_id: '604135676306236'
+  secret: 'a5d74314b5cffca55734e461bc99267d'
+
+test:
+  app_id: '604135676306236'
+  secret: 'a5d74314b5cffca55734e461bc99267d'
+
+production:
+  app_id: '1452474941640118'
+  secret: 'b27c6bb5ba9ee104bef2e4b80b10ea52'
